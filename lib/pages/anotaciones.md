@@ -1,7 +1,20 @@
 # Anotaciones Flutter
 
-####En el home
+## Scaffold: 
 
+####Clase de Widgets que se usan para conformar la UI, Appbar, drawer (Layout)
+
+    return Scaffold( 
+        appBar:  AppBar( 
+            title: Text(
+            'New Era',
+
+####Scaffold clase(Appbar (propiedad) : Appbar (Clase))
+####tittle (propiedad) : Text (Clase)
+####'New Era' valor
+          
+
+          
 
 ## 2 tipos de widget: 
 
